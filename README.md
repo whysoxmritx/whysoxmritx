@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="picture.jpeg" alt="Image" widht=300>
+</p>
+
 <h2 align="center">Hello👋🏻, Amrita Pandey here.</h2><br>
 <p align="center"><strong>🚀 Engineering Student | Programmer | Tech Explorer</strong></p> <br>
 <p align="center">Passionate about learning and builiding solutions with <strong>C++, Python and Java.</strong></p><br>
