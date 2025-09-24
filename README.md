@@ -3,6 +3,7 @@
 <p align="center">Passionate about learning and builiding solutions with <strong>C++, Python and Java.</strong></p><br>
 <i><p align="center">Thriving in the journey of Machine Learing and technology.</p></i>
 
+
 <p align="center">
   <strong>💻 Tech Stack:</strong><br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt=Python>
@@ -12,10 +13,12 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt=CSS3>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=whysoxmritx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center">
+  <strong>📊 GitHub Stats:</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=whysoxmritx&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 ![](https://nirzak-streak-stats.vercel.app/?user=whysoxmritx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whysoxmritx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=whysoxmritx&icon=0&color=0)](https://visitcount.itsvg.in)
