@@ -1,6 +1,6 @@
 <h2 align="center">Hello👋🏻, Amrita Pandey here.</h2><br>
 <p align="center";color:beige><strong>🚀 Engineering Student | Programmer | Tech Explorer</strong></p> <br>
-Passionate about learning and builiding solutions with **C++, Python and Java.**<br>
+Passionate about learning and builiding solutions with <strong>C++, Python and Java.</strong><br>
 _Thriving in the journey of Machine Learing and technology._
 
 # 💻 Tech Stack:
