@@ -27,8 +27,3 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=whysoxmritx&icon=0&color=0" alt="Profile Views"/>
-  </a>
-</p>
