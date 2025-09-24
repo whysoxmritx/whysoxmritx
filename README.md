@@ -1,5 +1,5 @@
 <h2 align="center">Hello👋🏻, Amrita Pandey here.</h2><br>
-<p align="center";color:beige>🚀 Engineering Student | Programmer | Tech Explorer</p> <br>
+<p align="center";color:beige><strong>🚀 Engineering Student | Programmer | Tech Explorer</strong></p> <br>
 Passionate about learning and builiding solutions with **C++, Python and Java.**<br>
 _Thriving in the journey of Machine Learing and technology._
 
