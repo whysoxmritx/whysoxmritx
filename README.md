@@ -16,7 +16,7 @@
 <p align="center">
   <strong>📊 GitHub Stats:</strong>
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whysoxmritx&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>
 ![](https://nirzak-streak-stats.vercel.app/?user=whysoxmritx&theme=dark&hide_border=false)<br/>
